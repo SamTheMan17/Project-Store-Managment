@@ -17,10 +17,9 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
+![2024-10-06_20h42_59](https://github.com/user-attachments/assets/f2eb9447-df47-47cb-b9c9-cf7f5e8f1986)
 
-![UML Diagram for my project](nameOfImageFileHere.png)
 
 ## Description
 
-Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+This project is based on a school supply store. The user is asked to choose between two of the items in the store, either a binder or marker. From those options the user then chooses based on the question asked what they would prefer. The question for the binder was: What color would you like your binder to be? The other question for the marker was: What thickness would you like your marker to be? These are the options for a user to choose from based on my school supply store.
